@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<menu>
+	<menuitem>
+		<display>New Game</display>
+    <exitcode>2</exitcode>
+    <exitmessage>Map</exitmessage>
+	</menuitem>
+  <menuitem>
+    <display>Load Game</display>
+    <exitcode>1</exitcode>
+    <exitmessage>Not available!</exitmessage>
+  </menuitem>
+  <menuitem>
+    <display>Options</display>
+    <exitcode>2</exitcode>
+    <exitmessage>OptionsMenu</exitmessage>
+  </menuitem>
+  <menuitem>
+    <display>Exit</display>
+    <exitcode>-1</exitcode>
+    <exitmessage></exitmessage>
+  </menuitem>
+</menu>

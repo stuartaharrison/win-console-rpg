@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<menu>
+  <menuitem>
+    <display>Save Game</display>
+    <exitcode>1</exitcode>
+    <exitmessage>Not Available!</exitmessage>
+  </menuitem>
+	<menuitem>
+		<display>Quit Game</display>
+		<exitcode>-2</exitcode>
+		<exitmessage></exitmessage>
+	</menuitem>
+</menu>

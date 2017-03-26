@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<map>
+	<base>
+		<mapid>0</mapid>
+		<title>Test-Map Area: A</title>
+		<mapwidth>20</mapwidth>
+		<mapheight>10</mapheight>
+    <playstartx>10</playstartx>
+    <playstarty>5</playstarty>
+	</base>
+</map>
